@@ -16,4 +16,8 @@ esc,:wq (to file save)
  $ git rm 	(to delete file)
  $ git config --global user.email (to register your mail)
  $ git config --global user.name  (to register your name)
-
+ $ git checkout commit id	  (goto master to commit)
+ $ git checkout master		  (go to commit ti master)
+ $ git reset --hard 		  (goto local area to strining/index area)
+ $ git reset --soft HAND~1	  (goto stringing area to working area)
+ 
