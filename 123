@@ -1,0 +1,19 @@
+basic commads
+mkdir (to create folder)
+cd	(goto folder)
+touch	(to create file)
+ls 	(to viwe all files)
+vi 	(to viwe and edit file)
+i 	(insert in your file)
+esc,:wq (to file save)
+ "git commands"
+ $ git init .	(git install or create repository)
+ $ git status	(to see file status)
+ $ git add	(to push file) (working area to index area)
+ $ git add .	(to push all files at the time)
+ $ git commit -m (to push index area to local area)
+ $ git log 	(to see all commits)
+ $ git rm 	(to delete file)
+ $ git config --global user.email (to register your mail)
+ $ git config --global user.name  (to register your name)
+
