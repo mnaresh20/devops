@@ -17,10 +17,15 @@ esc,:wq (to file save)
  $ git config --global user.email (to register your mail)
  $ git config --global user.name  (to register your name)
  $ git checkout commit id	  (goto master to commit)
- $ git checkout master		  (go to commit ti master)
+ $ git checkout master		  (go to commit to master)
  $ git reset --hard 		  (goto local area to strining/index area)
  $ git reset --soft HAND~1	  (goto stringing area to working area)
 to create git repository after use this command
  $ git remote add origin "http" (add all in the repository)
  $ git push -u origin 		(to save the git storage)
+to create branch and sub branches
+ $ git branch "name"	 	(to create branch)
+ $ git branch 			(to see all branchs list)
+ $ git merge "name"		(to merge all file in the branch to branch)
+ $ git checkout -b		(to create branch and directly going branch)
 
