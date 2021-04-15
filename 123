@@ -28,4 +28,6 @@ to create branch and sub branches
  $ git branch 			(to see all branchs list)
  $ git merge "name"		(to merge all file in the branch to branch)
  $ git checkout -b		(to create branch and directly going branch)
-
+ $ git clone        (all restored github to local system storege)
+ $ git full         (any edit file in github auto edit in local storege file)
+ $ git fetch+git merge = git pull
